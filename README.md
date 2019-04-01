@@ -1,2 +1,2 @@
-# azure-admin-crash-course
-Course materials for O'Reilly Learning course AZ-301 Microsoft Azure Administrator Crash Course
+# Exam AZ-103: Microsoft Azure Administrator Crash Course
+Course materials will be available here.
