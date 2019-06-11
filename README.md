@@ -31,7 +31,7 @@ Module 2: Implement and Manage Storage
 * Configure Azure files
 * Implement Azure backup
 
-[10-min break]
+[5-min break]
 
 Module 3: Deploy and Manage Virtual Machines
 
@@ -68,7 +68,7 @@ Module 5: Manage Identities
 * Implement and manage hybrid identities
 * Implement multi-factor authentication (MFA)
 
-[10-min break]
+[5-min break]
 
 Module 6: Exam AZ-100 Exam Strategy
 
