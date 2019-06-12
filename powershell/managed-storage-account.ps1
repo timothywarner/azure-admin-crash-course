@@ -5,9 +5,11 @@
 # TODO: Update with the resource group where your storage account resides, your storage account name, the name of your active storage account key, and your Key Vault instance name
 $resourceGroupName = "oreilly"
 $storageAccountName = "oreillystorage01"
-$storageAccountKey = "rs9U1bxRc3TJ77y8o2BnSY+j3cQ186c4ZBa1pY0cXvFnFLRZeOR70c3MLSSy2ocCaLn+gH1GWwR1Jqs1FPDPIQ=="
+$storageAccountKey = ""
 $keyVaultName = "oreilly-keyvault1"
-$keyVaultSpAppId = "cfa8b339-82a2-471a-a3c9-0fc0be7a4093" # See "IMPORTANT" block above for information on Key Vault Application IDs
+$keyVaultSpAppId = "" # See "IMPORTANT" block above for information on Key Vault Application IDs
+
+# Ref: https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview-storage-keys-powershell
 
 # Authenticate your PowerShell session with Azure AD, for use with Azure Resource Manager cmdlets
 $azureProfile = Connect-AzAccount
