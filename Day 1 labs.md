@@ -9,13 +9,13 @@
 * Managing Azure Resources
   * Resource groups
   * Taxonomic tags
-  * Azure Policy
-  * RBAC access
+  * Azure Policy [understand net effect]
+  * RBAC access [sub-admin groups]
 
 * Azure Storage
   * Create storage account
   * Azure Storage Explorer
-  * RBAC & SAS access
+  * RBAC & SAS access [know SAS token lifetime]
   * Network integration
   * Cloud share in Cloud Shell
     * Recovery Services Vault
@@ -27,3 +27,4 @@
   * Management operations
     * Diagnostics
     * Extensions
+
