@@ -3,8 +3,6 @@
 * Managing Azure subscriptions
   * Subscriptions blade
   * Azure Cost Management
-  * Azure Account Center
-  * Free tier
 
 * Managing Azure Resources
   * Resource groups
@@ -14,12 +12,11 @@
 
 * Azure Storage
   * Create storage account
+    * replication options
+    * services (especially file)
   * Azure Storage Explorer
   * RBAC & SAS access [know SAS token lifetime]
-  * Network integration
   * Cloud share in Cloud Shell
-    * Recovery Services Vault
-    * Back up VM
 
 * Deploying Azure VMs
   * Create Windows and Linux VMs
@@ -27,4 +24,3 @@
   * Management operations
     * Diagnostics
     * Extensions
-
