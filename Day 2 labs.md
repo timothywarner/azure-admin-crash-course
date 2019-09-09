@@ -3,16 +3,22 @@
 * Virtual networks
   * Create a new VNet
   * Configure peering
-  * Add internal load balancer
-  * Add Application Gateway
-  * Add Traffic Manager
+  * Add  load balancer
+  * Network Watcher
+
+* Diagnostics
+  * Diagnostic settings
+  * Metrics / logs
+  * Log Analytics / KQL
 
 * Identity
   * Users and groups
   * Hybrid cloud configuration (Azure AD Connect)
+    * idfix
+    * staging mode
   * Multi-Factor Authentication (MFA)
 
 * Exam Strategy
-  * Theoretical knowledge
-  * Hands-on experience
-  * Practice exam drills
+  * Show MCP badge portal
+  * MindHub
+  * MS Learn, etc.
