@@ -1,8 +1,6 @@
 
 # Exam AZ-103: Microsoft Azure Administrator Crash Course
 
-Session materials to accompany [the live, online course](https://learning.oreilly.com/live-training/courses/exam-az-103-microsoft-azure-administrator-crash-course/0636920272854/).
-
 ## Instructor contact
 
 Tim Warner
