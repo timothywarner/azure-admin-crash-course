@@ -11,9 +11,10 @@
   * Azure Policy [understand net effect]
   * RBAC access [sub-admin groups]
 
-* Azure Storage
+* Managing Azure Storage
   * Create storage account
     * replication options
+    * soft delete & snapshotting
     * services (especially file)
   * Azure Storage Explorer
   * RBAC & SAS access [know SAS token lifetime]
@@ -25,4 +26,3 @@
   * Management operations
     * Diagnostics
     * Extensions
-
