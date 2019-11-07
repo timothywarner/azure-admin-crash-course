@@ -9,7 +9,7 @@ Tim Warner
 * [Pluralsight author page](https://www.pluralsight.com/authors/tim-warner)
 * [Personal website](https://techtrainertim.com/)
 
-### Course Outline
+## Course Outline
 
 DAY 1 of 2 (3 hours)
 
