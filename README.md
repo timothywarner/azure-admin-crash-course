@@ -13,7 +13,7 @@ Tim Warner
 
 DAY 1 of 2 (3 hours)
 
-Introduction, level set, expectations, course overview, tips, etc.
+Introduction, level set, expectations, course overview, tips
 
 Module 1: Manage Azure Subscriptions and Resources
 
