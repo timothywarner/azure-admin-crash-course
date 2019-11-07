@@ -5,6 +5,7 @@
   * Azure Cost Management
 
 * Managing Azure Resources
+  * Management scopes
   * Resource groups
   * Taxonomic tags
   * Azure Policy [understand net effect]
