@@ -2,9 +2,9 @@
 
 * Virtual networks
   * Create a new VNet
-    - oreilly-vnet-spoke (172.16.0.0/16)
-    - spokevm (172.16.1.4)
+    - hub and spoke
   * Configure peering
+  * Create private DNS zone
   * Add load balancer
   * Network Watcher
 
@@ -22,6 +22,6 @@
   * Multi-Factor Authentication (MFA)
 
 * Exam Strategy
-  * Show MCP badge portal
+  * Certification portal
   * MindHub
-  * MS Learn, etc.
+  * MS Learn

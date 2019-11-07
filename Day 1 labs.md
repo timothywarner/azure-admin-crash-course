@@ -1,8 +1,8 @@
 # AZ-103 Crash Course Day 1 Labs
 
 * Managing Azure subscriptions
-  * Subscriptions blade
-  * Azure Cost Management
+  - Subscriptions blade
+  - Azure Cost Management
 
 * Managing Azure Resources
   * Management scopes
