@@ -24,5 +24,6 @@
   - Create Windows and Linux VMs
   - ARM templates
   - Management operations
+    + BACKUP + REPLICATION
     + Diagnostics
     + Extensions
