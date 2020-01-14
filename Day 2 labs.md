@@ -5,14 +5,15 @@
     + hub and spoke
   - Configure peering
   - Create private DNS zone
-  - Add load balancer
-  - Network Watcher
+  - Add load balancer LB rules / conn affin
+  - Network Watcher (IP flow, conn mon, packet cap)
+  - Traffic flow
 
 * Diagnostics
   - Diagnostic settings
   - Metrics explorer
   - Alerts
-  - Log Analytics
+  - Log Analytics / KQL Queries
 
 * Identity
   - Users and groups
