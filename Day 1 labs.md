@@ -3,36 +3,38 @@
 * Managing Azure subscriptions
   - Subscriptions blade
   - Azure Cost Management
+      + Tags
 
 * Managing Azure Resources
-  - Management scopes
+  - Management scopes  // SLIDE
   - Resource groups
   - Taxonomic tags
-  - Azure Policy [understand net effect]
-  - RBAC access [sub-admin groups]
+  - Azure Policy
+      + Effects
+      + Layering: cumulative most restrictive
+  - RBAC access
+      + Sub-admin built-in roles
 
 * Managing Azure Storage
-  - Create storage account (use CLI)
-    + replication options
+  - Create storage account
+    + Use CLI
+    + replication options   // SLIDE
     + soft delete & snapshotting
     + View VHD lease state with ASE
-    + services (especially file)
-  - Azure Storage Explorer
-  - RBAC & SAS access [do stored access policy]
+  - RBAC & SAS access
+    + Stored Access Policy
   - Cloud share in Cloud Shell
-  - Azure File Sync
+  - Azure File Sync  // SLIDE
   - Azure Key Vault / managed storage account
 
 * Deploying Azure VMs
   - Create Windows and Linux VMs
+    + Bastion
   - Prepare on-prem VHDs (gen 1/gen 2)
   - Add and initialize disks
   - ARM templates
   - Management operations
-    + BACKUP + REPLICATION / Vault
+    + Backup and replication
     + Diagnostics
     + Extensions
   - Compare with App Services / App Service Plans
-
-
-az keyvault storage add --vault-name TimKV -n twcloudstorage --active-key-name key1 --auto-regenerate-key --regeneration-period P90D --resource-id "/subscriptions/2fbf906e-1101-4bc0-b64f-adc44e462fff/resourceGroups/INSTRUCTOR/providers/Microsoft.Storage/storageAccounts/twcloudstorage"

@@ -3,26 +3,29 @@
 * Virtual networks
   - Create a new VNet
     + hub and spoke
-  - Configure peering
-  - Create private DNS zone
-  - Add load balancer LB rules / conn affin
-  - Network Watcher (IP flow, conn mon, packet cap)
-  - Traffic flow
+  - Peering
+  - Private DNS zone
+  - Load balancer rules / connection affinity
+  - Network Watcher
+      + IP flow verify
+      + Connection Monitor
+      + Packet Capture
 
 * Diagnostics
   - Diagnostic settings
-  - Metrics explorer
+  - Metrics Explorer
   - Alerts
   - Log Analytics / KQL Queries
 
 * Identity
   - Users and groups
-    + Set up new user for MFA
-  - Hybrid cloud configuration (Azure AD Connect)
+  - Hybrid cloud configuration
     + idfix
+    + Azure AD Connect auth methods
     + Staging mode
   - Multi-Factor Authentication (MFA)
     + Conditional access
+    + Identity Protection
 
 * Exam Strategy
   - Certification portal
