@@ -25,6 +25,7 @@
 
 * [MeasureUp](https://www.measureup.com/microsoft-azure-administrator.html)
 * [Udemy](https://www.udemy.com/az-100-azure-administrator-infrastructure-practice-test/)
+* [Whizlabs](https://www.whizlabs.com/microsoft-azure-exam-az-103-certification/)
 
 ## Exam Discounts and Registration
 

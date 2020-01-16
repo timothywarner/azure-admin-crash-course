@@ -3,6 +3,7 @@
 * Virtual networks
   - Create a new VNet
     + hub and spoke
+  - VM TCP/IP configuration
   - Peering
   - Private DNS zone
   - Load balancer rules / connection affinity
