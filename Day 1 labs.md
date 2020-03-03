@@ -1,9 +1,8 @@
-# AZ-103 Crash Course Day 1 Labs
+# AZ-103/104 Crash Course Day 1 Labs
 
 * Managing Azure subscriptions
   - Subscriptions blade
   - Azure Cost Management
-      + Tags
 
 * Managing Azure Resources
   - Management scopes  // SLIDE
@@ -14,13 +13,14 @@
       + Layering: cumulative most restrictive
   - RBAC access
       + Sub-admin built-in roles
+      + Custom roles
 
 * Managing Azure Storage
   - Create storage account
     + Use CLI
     + replication options   // SLIDE
     + soft delete & snapshotting
-    + View VHD lease state with ASE
+    + View VHD lease state
   - RBAC & SAS access
     + Stored Access Policy
   - Cloud share in Cloud Shell

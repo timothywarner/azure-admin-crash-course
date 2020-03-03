@@ -1,6 +1,6 @@
 # Tim's Hand-Selected AZ-103/104 Study Resources
 
-## Build your conceptual knowledge
+## Conceptual knowledge
 
 * [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
 * [Exam Ref AZ-103 (Microsoft Press)](https://www.microsoftpressstore.com/store/exam-ref-az-103-microsoft-azure-administrator-9780135466636)
@@ -12,16 +12,15 @@
 * [edX - Microsoft Azure Courses](https://www.edx.org/learn/azure)
 * [IT Experience AZ-103 Study Guide](https://www.itexperience.net/az-103/az-103-study-guide-manage-azure-subscriptions-and-resources/)
 
-
-## Develop practical experience
+## Practical experience
 
 * [Azure free account](https://azure.microsoft.com/en-us/free/)
 * [Microsoft Learn Azure Administrator Path](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator)
 * [Azure Citadel](https://azurecitadel.com/)
 * [Azure Administrator Labs](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
-* * [SkillMeUp AZ-103 Labs](https://www.skillmeup.com/course/bypath/az-103-azure-administrator)
+* [SkillMeUp AZ-103 Labs](https://www.skillmeup.com/course/bypath/az-103-azure-administrator)
 
-## Practice Exam Simulation
+## Practice Exam Drilling
 
 * [MeasureUp](https://www.measureup.com/microsoft-azure-administrator.html)
 * [Udemy](https://www.udemy.com/az-100-azure-administrator-infrastructure-practice-test/)
