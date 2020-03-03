@@ -1,4 +1,4 @@
-# Tim's Hand-Selected AZ-103 Study Resources
+# Tim's Hand-Selected AZ-103/104 Study Resources
 
 ## Build your conceptual knowledge
 
