@@ -2,15 +2,15 @@
 
 * Managing Azure subscriptions
   - Subscriptions blade
+  - Management Groups //SLIDE
   - Azure Cost Management
 
 * Managing Azure Resources
-  - Management scopes  // SLIDE
   - Resource groups
-  - Taxonomic tags
-  - Azure Policy
-      + Effects
+      + Taxonomic tags
+      + Azure Policy
       + Layering: cumulative most restrictive
+      + Moving resources
   - RBAC access
       + Sub-admin built-in roles
       + Custom roles
@@ -20,7 +20,7 @@
     + Use CLI
     + replication options   // SLIDE
     + soft delete & snapshotting
-    + View VHD lease state
+    + View VHD lease state (Azure Storage Explorer)
   - RBAC & SAS access
     + Stored Access Policy
   - Cloud share in Cloud Shell
