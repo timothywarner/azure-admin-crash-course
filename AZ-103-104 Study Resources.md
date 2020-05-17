@@ -9,7 +9,6 @@
 * [Azure Greg Study Resources](https://gregorsuttie.com/2019/05/13/azure-exam-resources/)
 * [Pluralsight + Azure](https://www.pluralsight.com/partners/microsoft/azure)
 * [Microsoft Azure @ YouTube](https://www.youtube.com/user/windowsazure)
-* [edX - Microsoft Azure Courses](https://www.edx.org/learn/azure)
 * [IT Experience AZ-103 Study Guide](https://www.itexperience.net/az-103/az-103-study-guide-manage-azure-subscriptions-and-resources/)
 
 ## Practical experience
@@ -30,3 +29,12 @@
 
 * [Microsoft Certification Special Offers](https://www.microsoft.com/en-us/learning/offers.aspx)
 * [Exam AZ-103 Registration page](https://www.microsoft.com/en-us/learning/exam-az-103.aspx)
+
+## Online Testing
+
+* [About Online Exams](https://www.microsoft.com/en-us/learning/online-exams.aspx)
+* [MS Certification Policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
+* [Pearson VUE Grievances](https://home.pearsonvue.com/microsoft/contact)
+* [Take MS Cert Exams Online](https://build5nines.com/take-microsoft-certification-exams-during-covid-19-coronavirus-quarantine/)
+
+

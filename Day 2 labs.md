@@ -1,22 +1,27 @@
 # AZ-103 Crash Course Day 2 Labs
 
+* Compute, Continued
+  * Container
+  * App Service
+  
+* Diagnostics
+  - Diagnostic settings
+  - Metrics Explorer
+  - Alerts
+  - Log Analytics / KQL Queries
 * Virtual networks
   - Create a new VNet
     + hub and spoke
   - VM TCP/IP configuration
   - Peering
-  - Private DNS zone
+  - Private DNS zone  // AZURE DNS
   - Load balancer rules / connection affinity
   - Network Watcher
       + IP flow verify
       + Connection Monitor
       + Packet Capture
 
-* Diagnostics
-  - Diagnostic settings
-  - Metrics Explorer
-  - Alerts
-  - Log Analytics / KQL Queries
+
 
 * Identity
   - Users and groups
