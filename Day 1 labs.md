@@ -13,7 +13,7 @@
     * Moving resources
   * RBAC access
     * Sub-admin built-in roles
-    * Custom roles
+    * Custom roles // DEMO THIS
 
 * Managing Azure Storage
   * Create storage account
