@@ -6,6 +6,9 @@ az group create --name aks --location eastus
 # Create cluster
 az aks create --resource-group aks --name oreillyAKS --node-count 1 --enable-addons monitoring --generate-ssh-keys
 
+<#
+SSH key files '/home/tim/.ssh/id_rsa' and '/home/tim/.ssh/id_rsa.pub' have been generated under ~/.ssh to allow SSH access to the VM. If using machines without permanent storage like Azure Cloud Shell without an attached file share, back up your keys to a safe location
+#>
 # Connect to the cluster
 az aks install-cli
 
