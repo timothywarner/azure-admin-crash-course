@@ -1,5 +1,12 @@
 # AZ-104 Crash Course Day 2 Labs
 
+* Content Catch-Up
+    * Bastion
+    * Firewall
+      * UDR
+    * Locks
+    * Azure AD Join
+
 * Networking
     * VNet implementation
       * Addressing and routing
@@ -7,9 +14,6 @@
         * Azure DNS
       * Routing and Security
         * NSGs / ASGs
-        * UDRs
-        * Azure Bastion
-        * Azure Firewall
       * Load Balancing
         * Azure Load Balancer
         * Application Gateway
