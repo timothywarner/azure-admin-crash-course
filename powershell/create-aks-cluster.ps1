@@ -1,4 +1,6 @@
-Ref 1: https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
+# Create AKS Cluster
+
+Ref: https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
 
 # Create resource group
 az group create --name aks --location eastus
